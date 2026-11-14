@@ -1,0 +1,42 @@
+modLoader = "javafml"
+loaderVersion = "*"
+#issueTrackerURL = ""
+license = "MIT"
+
+[[mixins]]
+config = "wheelbarrow-common.mixins.json"
+
+[[mixins]]
+config = "wheelbarrow-neoforge.mixins.json"
+
+[[mods]]
+modId = "wheelbarrow"
+version = "${version}"
+displayName = "Wheelbarrow"
+authors = "asasinmode"
+description = '''
+A wheelbarrow!
+'''
+logoFile = "assets/wheelbarrow/icon.png"
+displayURL = "https://github.com/Minor2CCh/wheelbarrowForked"
+
+[[dependencies.wheelbarrow]]
+modId = "neoforge"
+type = "required"
+versionRange = "*"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.wheelbarrow]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21,1.21.2)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.wheelbarrow]]
+modId = "cloth_config"
+type = "optional"
+versionRange = "*"
+ordering = "NONE"
+side = "BOTH"

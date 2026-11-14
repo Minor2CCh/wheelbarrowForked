@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"I S",
+		"III",
+		" L "
+	],
+	"key": {
+		"L": {
+			"tag": "minecraft:logs"
+		},
+		"S": {
+			"tag": "c:rods/wooden"
+		},
+		"I": {
+			"tag": "c:ingots/copper"
+		}
+	},
+	"result": {
+		"id": "wheelbarrow:copper_wheelbarrow",
+		"count": 1
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.asasinmode.wheelbarrow.neoforge.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "client.LivingEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixinextras": {
+  "minVersion": "0.5.5"
+}
+}

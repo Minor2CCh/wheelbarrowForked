@@ -1,0 +1,18 @@
+{
+  "item.wheelbarrow.copper_wheelbarrow": "Copper Wheelbarrow",
+  "item.wheelbarrow.exposed_copper_wheelbarrow": "Exposed Copper Wheelbarrow",
+  "item.wheelbarrow.weathered_copper_wheelbarrow": "Weathered Copper Wheelbarrow",
+  "item.wheelbarrow.oxidized_copper_wheelbarrow": "Oxidized Copper Wheelbarrow",
+  "item.wheelbarrow.waxed_copper_wheelbarrow": "Waxed Copper Wheelbarrow",
+  "item.wheelbarrow.waxed_exposed_copper_wheelbarrow": "Waxed Exposed Copper Wheelbarrow",
+  "item.wheelbarrow.waxed_weathered_copper_wheelbarrow": "Waxed Weathered Copper Wheelbarrow",
+  "item.wheelbarrow.waxed_oxidized_copper_wheelbarrow": "Waxed Oxidized Copper Wheelbarrow",
+  "modmenu.nameTranslation.wheelbarrow": "Wheelbarrow",
+  "modmenu.descriptionTranslation.wheelbarrow": "A copper wheelbarrow!",
+  "config.wheelbarrow.maxPassengers": "Maximum number of passengers",
+  "config.wheelbarrow.immuneWallDamage": "Immune In Wall Damage",
+  "config.wheelbarrow.placeableInWater": "Placeable In Water",
+  "key.categories.wheelbarrow": "Wheelbarrow",
+  "key.wheelbarrow.yeet": "Eject",
+  "key.wheelbarrow.yeetTooltip": "Press %s to eject passengers"
+}
